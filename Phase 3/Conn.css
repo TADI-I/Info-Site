@@ -1,0 +1,66 @@
+#bb{
+    width: 500px;
+    background-color: purple;
+    color: white;
+    padding: 10 5 10 5;
+    text-align: center;
+    border-radius: 13px;
+}
+#f1{
+    text-align: end;
+}
+#f2{
+    text-align: center;
+}
+#b1{
+    background-color: coral;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#hh{
+    background-color: crimson;
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-align: center;
+}
+#pp{
+    background-color: rgb(226, 121, 46);
+    border-radius: 5px;
+}
+#nav{
+    padding: 2%;
+    text-align: center;
+    padding-right: 10px;
+    position: fixed;
+    background-color: rgb(83, 83, 83);
+    display: block;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-right: 10px;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+}
+#nn{
+    text-align: left;
+    color:white
+}
+a:link {
+    color: rgb(17, 0, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(0, 0, 0);
+  }
+  #yt{
+      text-align: center;
+  }
